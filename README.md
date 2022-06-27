@@ -1,2 +1,2 @@
 # myCalculator
-Android Project
+Android Studio Project ,that creates an scientific calculator
